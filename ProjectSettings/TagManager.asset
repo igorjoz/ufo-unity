@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pickup
   layers:
   - Default
   - TransparentFX
@@ -40,6 +41,9 @@ TagManager:
   m_SortingLayers:
   - name: Background
     uniqueID: 566976007
+    locked: 0
+  - name: Picups
+    uniqueID: 635734851
     locked: 0
   - name: Player
     uniqueID: 3253091071
